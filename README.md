@@ -1,3 +1,9 @@
+# Descrição da ponderada
+
+O Desafio Kaggle é uma competição entre cientistas de dados. Nesse caso, ganhará a competição quem desenvolver
+ o melhor modelo de predição de preços de casas numa cidade em Iowa. No notebook, foi apresentado um modelo de regressão não supervisonado, resultando no histograma do preço de venda das casas.
+
+
 # House Prices - Advanced Regression Techniques
 
 Olá! Se você está aqui, quer dizer que passamos da Sprint 3, maravilha! Agora vamos focar em descobrir padrões dos nossos dados, e esta atividade ponderada é perfeita para consolidarmos o nosso conhecimento. Em grupo, se juntem e entrem no site: [house_kaggle_competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques), leiam o desafio, baixem os dados, façam uma pequena análise e criem seus notebooks para solucionar o problema proposto. Boa sorte! Não esqueça de submeter o desafio global, vamos tentar chegar nos 100 primeiros do mundo!
